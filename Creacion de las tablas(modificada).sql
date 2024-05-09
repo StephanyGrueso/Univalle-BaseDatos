@@ -1,3 +1,7 @@
+----STEPHANY GRUESO MOLINA 
+----WALTHER ESTACIO ORDOÑEZ 
+
+
 -- Creacion de las tablas
 CREATE TABLE ubicaciones (
     id INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
